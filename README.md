@@ -1,3 +1,3 @@
 # Java 
 
-Change Make Make App in java using Jrame
+Change Maker App in java using Jrame
